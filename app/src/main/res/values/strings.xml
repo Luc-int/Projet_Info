@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Projet Informatique 1</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_lire">Lire</string>
+    <string name="title_activity_sauvegarder">Sauvegarder</string>
+    <string name="title_activity_emuler">Emuler</string>
+    <string name="title_activity_modifier">Modifier</string>
+    <string name="title_activity_informations">Informations</string>
+    <string name="title_activity_credits">Credits</string>
+</resources>
